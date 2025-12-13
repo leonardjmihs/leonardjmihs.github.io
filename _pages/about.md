@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>ECE PhD Candidate @ <a href='https://robotics.northeastern.edu/'>Northeastern's Institue For Experiential Robotics</a> <br> Controls and Planning | Verifiable ML | Robotics </strong> 
+subtitle: <strong>ECE PhD Candidate @ <a href='https://robotics.northeastern.edu/'>Northeastern's Institue For Experiential Robotics</a> <br> Controls and Planning | Verifiable ML | Robotics </strong>  <br> 
 
 
 profile:
@@ -13,7 +13,7 @@ profile:
     <p>EXP 720</p>
     <p>815 Columbus Ave</p>
     <p>Boston, MA 02115</p>
-
+    <p><a href="jung.le@northeastern.edu">jung.le@northeastern.edu</a></p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -40,5 +40,8 @@ I also am drawn to anything with very pretty math (current obsession: Riemannian
 Previously, I earned my B.S. in Aerospace Engineering from Purdue University, where, I among other things, was fortunate enough to work in the <a href="https://engineering.purdue.edu/AOL"> Autonomy and Optimization LaB </a> under <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=243160"> Ran Dai </a> working on solving QCQPs for optimal planning and controls and the design of origami-inspired robots.
 
 Feel free to drop me an email; I advise undergrad/masters students regularly, and additionally get nerd-sniped very easily! 
+
+
+
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
