@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-03-02'
 papers:
   Y2Ge54EAAAAJ:2osOgNQ5qMEC:
-    citations: 2
-    title: Contingency Constrained Planning with MPPI within MPPI
+    citations: 3
+    title: Contingency constrained planning with MPPI within MPPI
     year: '2024'
   Y2Ge54EAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -22,14 +22,14 @@ papers:
     title: Verification of Visual Controllers via Compositional Geometric Transformations
     year: '2025'
   Y2Ge54EAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: Lidar inertial odometry and mapping using learned registration-relevant features
     year: '2025'
   Y2Ge54EAAAAJ:u-x6o8ySG0sC:
-    citations: 0
-    title: Learning Smooth State-Dependent Traversability from Dense Point Clouds
+    citations: 1
+    title: Learning smooth state-dependent traversability from dense point clouds
     year: '2025'
   Y2Ge54EAAAAJ:u5HHmVD_uO8C:
     citations: 6
-    title: An Origami-Inspired Deployable Space Debris Collector
+    title: An origami-inspired deployable space debris collector
     year: '2023'
