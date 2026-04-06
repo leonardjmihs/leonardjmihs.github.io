@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-04-06'
 papers:
   Y2Ge54EAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 4
     title: Contingency constrained planning with MPPI within MPPI
     year: '2024'
   Y2Ge54EAAAAJ:9yKSN-GCB0IC:
@@ -33,3 +33,7 @@ papers:
     citations: 6
     title: An origami-inspired deployable space debris collector
     year: '2023'
+  Y2Ge54EAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'SCRAMPPI: Efficient Contingency Planning for Mobile Robot Navigation via Hamilton-Jacobi Reachability'
+    year: '2026'
