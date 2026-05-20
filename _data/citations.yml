@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-05-20'
 papers:
   Y2Ge54EAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -30,7 +30,7 @@ papers:
     title: Learning smooth state-dependent traversability from dense point clouds
     year: '2025'
   Y2Ge54EAAAAJ:u5HHmVD_uO8C:
-    citations: 6
+    citations: 7
     title: An origami-inspired deployable space debris collector
     year: '2023'
   Y2Ge54EAAAAJ:zYLM7Y9cAGgC:
