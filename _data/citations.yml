@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-19'
 papers:
   Y2Ge54EAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: A Hybrid Framework for Efficient Koopman Operator Learning
     year: '2025'
+  Y2Ge54EAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: 'SCRAMPPI: Efficient Contingency Planning for Mobile Robot Navigation via Hamilton-Jacobi Reachability'
+    year: '2026'
   Y2Ge54EAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Practical and Performant Enhancements for Maximization of Algebraic Connectivity
