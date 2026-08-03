@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   Y2Ge54EAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -26,9 +26,9 @@ papers:
     title: Verification of Visual Controllers via Compositional Geometric Transformations
     year: '2025'
   Y2Ge54EAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 5
     title: Lidar inertial odometry and mapping using learned registration-relevant features
-    year: '2024'
+    year: '2025'
   Y2Ge54EAAAAJ:u-x6o8ySG0sC:
     citations: 2
     title: Learning smooth state-dependent traversability from dense point clouds
