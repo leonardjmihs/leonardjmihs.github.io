@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-19'
 papers:
   Y2Ge54EAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Practical and Performant Enhancements for Maximization of Algebraic Connectivity
     year: '2025'
+  Y2Ge54EAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: 'Torques-to-Pixels: Verification of Visual Controllers'
+    year: '2026'
   Y2Ge54EAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Verification of Visual Controllers via Compositional Geometric Transformations
